@@ -1,0 +1,2 @@
+# Virtual-Shopping-Mall
+The Virtual Shopping Mall project, implemented using Python, was our submission for the Grade 12 annual project in Computer Science. A corresponding interactive user interface was created using Pygame to enhance the user's experience. It depicts a general shopping mall scenario enabling the user to carry out shopping, gaming, entertainment and recreational activities in the virtual sense.
